@@ -1,1 +1,4 @@
 flask
+json
+timem
+paho-mqtt
